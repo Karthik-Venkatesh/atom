@@ -11,7 +11,7 @@ nltk==3.4
 numpy==1.15.4
 opencv-contrib-python==3.4.5.20
 packaging==18.0
-Pillow==5.4.1
+Pillow==8.1.1
 PyAudio==0.2.11
 Pygments==2.3.1
 pyparsing==2.3.0
